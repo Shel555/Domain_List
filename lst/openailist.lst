@@ -1,4 +1,5 @@
 ab.chatgpt.com
+ai.com
 api.openai.com
 auth.openai.com
 auth0.openai.com
@@ -7,6 +8,7 @@ beta.api.openai.com
 beta.openai.com
 cdn.oaistatic.com
 cdn.openai.com
+chat.com
 chat.openai.com
 chat.openai.com.cdn.cloudflare.net
 chatgpt-async-webps-prod-eastus-2.chatgpt.com
@@ -17,6 +19,7 @@ cookbook.openai.com
 files.oaiusercontent.com
 forum.openai.com
 gpt3-openai.com
+grok.com
 gym.openai.com
 help.openai.com
 help.openai.com.cdn.cloudflare.net
@@ -26,7 +29,6 @@ ios.chat.openai.com.cdn.cloudflare.net
 jukebox.openai.com
 labs.openai.com
 labs.openai.com.cdn.cloudflare.net
-mail.asistentechatgpt.com
 manage.openai.auth0app.com
 microscope.openai.com
 model-spec.openai.com
@@ -55,3 +57,4 @@ validator.oaipmh.com
 webrtc.chatgpt.com
 www.openai.com
 www.openai.com.cdn.cloudflare.net
+x.ai
