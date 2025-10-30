@@ -25,8 +25,8 @@ def select_file_and_process():
     file_path = filedialog.askopenfilename(
         title="Выберите файл с доменами",
         filetypes=[
+            ("Файлы списков", "*.lst"),
             ("Текстовые файлы", "*.txt"),
-            ("Файлы списков", "*.lst"), 
             ("Все файлы", "*.*")
         ]
     )
